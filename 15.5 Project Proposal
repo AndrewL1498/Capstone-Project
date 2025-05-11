@@ -1,0 +1,40 @@
+1. What tech stack will you use for your final project? 
+React, Javascript
+
+
+2. Is the front-end UI or the back-end going to be the focus of your project? Or are you going to make an evenly focused full-stack application? 
+Full Stack
+
+
+3. Will this be a website? A mobile app? Something else? 
+Website and possibly an app
+
+
+4. What goal will your project be designed to achieve? 
+Helping people make simple and easy meal plans that allow them to hit their macros that are generated based on what they like and what they don’t like. It will be very simple and straightforward for them to replace meals with other meals that they like that still hit their macros. They will also be able to adjust what’s in a meal. For example, maybe they found a salad recipe they like, but it includes olives and they hate olives. They can easily remove that from their recipe. They may also be able to add their own meals and recipes in if they would like. I’d like to generate a price on the groceries as well and integrate it with instacart and/or other food delivery services if that’s possible to allow them to be able to order all their groceries for their recipes directly from instacart
+
+
+5. What kind of users will visit your app? In other words, what is the demographic of your users?
+Most likely men around 20-30 who are interested in getting in better shape, most likely in the tech industry since that’s my target demographic for my fitness business
+
+
+6. What data do you plan on using? How are you planning on collecting your data? You may have not picked your actual API yet, which is fine, just outline what kind of data you would like it to contain. You are welcome to create your own API and populate it with data. 
+The EatThisMuch API
+
+
+
+In brief, outline your approach to creating your project (knowing that you may not know everything in advance and that these details might change later). Answer questions like the ones below, but feel free to add more information
+
+What does your database schema look like? 
+
+What kinds of issues might you run into with your API? 
+
+This is especially important if you are creating your own API, web scraping produces notoriously messy data.
+
+Is there any sensitive information you need to secure? 
+
+What functionality will your app include? 
+
+What will the user flow look like? 
+
+What features make your site more than a CRUD app? What are your stretch goals?
